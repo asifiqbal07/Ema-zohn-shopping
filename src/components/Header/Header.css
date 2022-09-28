@@ -1,0 +1,27 @@
+.header {
+    background-color: #1c2B35;
+    height: 40px;
+    padding: 1.5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bars {
+    margin-right: 3%;
+}
+
+.bars a {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.bars a:hover{
+    color: #ff9c04;
+}
+.logo{
+    padding-left: 1.5%;
+}
